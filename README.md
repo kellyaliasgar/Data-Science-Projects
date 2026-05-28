@@ -13,7 +13,7 @@ I also work at **Target (White Marsh, MD)**, where I proposed **data science pro
 - 🧮 Experienced in **Python, SQL, Tableau, Excel, and machine learning**.  
 - 🌎 Background in **Geospatial Analysis, Predictive Modeling, and Process Optimization**.  
 - 💡 Skilled at translating complex analysis into actionable insights.  
-- 🧍‍♀️ Currently based in **Maryland, USA** — open to hybrid or remote data science roles.  
+- 🧍‍♀️ Currently based in **New York, USA** — open to hybrid or remote data science roles.  
 
 ---
 
